@@ -1,2 +1,3 @@
-# termoshtt/stack docker image [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000?style=plastic)](https://hub.docker.com/r/termoshtt/stack/)
+# termoshtt/stack docker image [![Docker Automated build](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg?maxAge=2592000?style=plastic)](https://hub.docker.com/r/termoshtt/stack/) [![](https://images.microbadger.com/badges/image/termoshtt/stack.svg)](https://microbadger.com/images/termoshtt/stack "Get your own image badge on microbadger.com")
 Docker image for haskell/stack with my favarite modules
+ 
